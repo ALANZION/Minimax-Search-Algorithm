@@ -277,23 +277,13 @@ if __name__ == "__main__":
 <hr>
 
 <hr>
-<h2> Output </h2>
+<h2>Output:</h2>
+<img width="561" height="613" alt="499234148-d043d744-f688-4150-ac71-c8ff04eb0a56" src="https://github.com/user-attachments/assets/f538275a-9c17-454f-b245-b1401e295c54" />
 
-<img width="437" height="637" alt="image" src="https://github.com/user-attachments/assets/8d569fa3-0b75-45e9-8365-53162dc1e3ab" />
+<img width="557" height="615" alt="499234198-d0ae10f0-ca77-4509-96d6-52506d9b9ffe" src="https://github.com/user-attachments/assets/79e989b8-843a-45e6-a2b7-3d7a82b7a891" />
 
-
-
-<img width="464" height="459" alt="image" src="https://github.com/user-attachments/assets/c896c4cf-6df7-42aa-b16d-22c797f89f54" />
-
-
-
-<img width="480" height="464" alt="image" src="https://github.com/user-attachments/assets/050f968e-2bcb-4141-a0e8-02212c47de77" />
-
-
-
-<img width="497" height="327" alt="image" src="https://github.com/user-attachments/assets/bf4b8219-202f-4210-a6b3-9ccd3b7dd983" />
+<img width="571" height="384" alt="499234255-d982b312-e943-4cda-a73e-f1cbcc9de2d8" src="https://github.com/user-attachments/assets/ec11a785-16bb-44c3-b656-dcee43f47869" />
 
 <hr>
-
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
